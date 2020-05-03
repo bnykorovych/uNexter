@@ -6,6 +6,7 @@
 
 *.sublime-workspace
 
+package-lock.json
 
 # misc
 /.sass-cache
